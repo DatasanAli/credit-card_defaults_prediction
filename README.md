@@ -1,2 +1,2 @@
-# AAI-501-Grp1
+# credit-card_defaults_prediction
 Repository to Collaborate on Capstone project
